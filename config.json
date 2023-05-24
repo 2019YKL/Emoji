@@ -1,0 +1,10 @@
+{
+    "window_size": {
+        "width": 520,
+        "height": 400
+    },
+    "button_spacing": {
+        "horizontal": 16,
+        "vertical": 10
+    }
+}
