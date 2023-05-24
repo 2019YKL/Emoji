@@ -15,4 +15,4 @@
 
 ## 说明
 
-代码完全由Chatgpt生成，本人是Python零基础小白 🤣
+代码完全由ChatGPT生成，本人是Python零基础小白 🤣
